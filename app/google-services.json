@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482935513497",
+    "firebase_url": "https://cmdcolsolescript-default-rtdb.firebaseio.com",
+    "project_id": "cmdcolsolescript",
+    "storage_bucket": "cmdcolsolescript.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482935513497:android:748ce544b804acf4eeb308",
+        "android_client_info": {
+          "package_name": "com.example.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482935513497-dho475kt9kfbvfd58vi94dsonkgmrdq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6stbwvyjnl_8EuDZ6h8cBpA-btwsMgWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482935513497-dho475kt9kfbvfd58vi94dsonkgmrdq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
